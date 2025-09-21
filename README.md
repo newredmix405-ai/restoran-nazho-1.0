@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html lang="id">
+<head></head>
+ <!DOCTYPE html>
+ <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +14,7 @@
     }
     header {
       background-color: #8B0000;
-      color: white;
+      color: black;
       padding: 15px 50px;
       display: flex;
       justify-content: space-between;
@@ -134,17 +135,17 @@
     <h2>Menu Favorit Kami</h2>
     <div class="menu-items">
       <div class="menu-card">
-        <img src="https://source.unsplash.com/250x150/?steak" alt="Steak" width="100%">
+        <img src="(https://photos.google.com/album/AF1QipOpYfdXuKLjeG4vpHw92jPs2yoDrcoc8CM1sZZ0/photo/AF1QipP2pCgMsoSpp5K2_CkRwXteF2265jC17KtUuI-Y)/250x150/?steak" alt="Steak" width="100%">
         <h3>Steak Premium</h3>
         <p>Rp 120.000</p>
       </div>
       <div class="menu-card">
-        <img src="https://source.unsplash.com/250x150/?pasta" alt="Pasta" width="100%">
+        <img src="(https://photos.google.com/album/AF1QipOpYfdXuKLjeG4vpHw92jPs2yoDrcoc8CM1sZZ0/photo/AF1QipOQhgiGZHMn7SULkDuAd8MBcF_Oao9giWXfWpL8)" alt="Pasta" width="100%">
         <h3>Pasta Creamy</h3>
         <p>Rp 75.000</p>
       </div>
       <div class="menu-card">
-        <img src="https://source.unsplash.com/250x150/?dessert" alt="Dessert" width="100%">
+        <img src="[https://source.unsplash.com](https://photos.google.com/album/AF1QipOpYfdXuKLjeG4vpHw92jPs2yoDrcoc8CM1sZZ0/photo/AF1QipNkDDrZRtcGGyb3jfggyVs1IWZWxoJVMvAm3711)/250x150/?dessert" alt="Dessert" width="100%">
         <h3>Chocolate Lava</h3>
         <p>Rp 45.000</p>
       </div>
@@ -190,7 +191,7 @@
 
       <button type="submit">Kirim Reservasi</button>
     </form>
-    <p>Atau hubungi via WhatsApp 👉 <a href="https://wa.me/6281234567890" target="_blank">Chat Admin</a></p>
+    <p>Atau hubungi via WhatsApp 👉 <a href="https://wa.me/6285643950602" target="_blank">Chat Admin</a></p>
   </section>
 
   <!-- Order Online -->
@@ -232,8 +233,8 @@
 
   <!-- Footer -->
   <footer id="kontak">
-    <p>📍 Jl. Contoh No. 123, Jakarta</p>
-    <p>📞 0812-3456-7890 | ✉️ info@restoranlezat.com</p>
+    <p>📍 Jl. Dalangan-tawangsari,Sukoharjo</p>
+    <p>📞 0856-4395-0602 | ✉️ info@restoranlezat.com</p>
     <p>© 2025 Restoran Lezat. All rights reserved.</p>
   </footer>
 
@@ -255,7 +256,7 @@
       Jumlah: ${jumlah}%0A
       Catatan: ${catatan}`;
 
-      window.open(`https://wa.me/6281234567890?text=${pesan}`, "_blank");
+      window.open(`https://wa.me/6285643950602?text=${pesan}`, "_blank");
     }
   </script>
 
